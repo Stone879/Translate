@@ -1,0 +1,15 @@
+﻿F:\Microsoft\VS2022\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(500,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  pch.cpp
+  dllmain.cpp
+  Translate.cpp
+G:\GitHub\Translate\DllTranslate\Translate.cpp(23,6): warning C4273: “Translate”: dll 链接不一致
+G:\GitHub\Translate\DllTranslate\Translate.h(23,21): message : 参见“Translate”的前一个定义
+G:\GitHub\Translate\DllTranslate\Translate.cpp(43,6): warning C4273: “InitDllTranslate”: dll 链接不一致
+G:\GitHub\Translate\DllTranslate\Translate.h(17,21): message : 参见“InitDllTranslate”的前一个定义
+G:\GitHub\Translate\DllTranslate\Translate.cpp(54,6): warning C4273: “ReleaseDllTranslate”: dll 链接不一致
+G:\GitHub\Translate\DllTranslate\Translate.h(19,21): message : 参见“ReleaseDllTranslate”的前一个定义
+G:\GitHub\Translate\DllTranslate\Translate.cpp(145,89): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+G:\GitHub\Translate\DllTranslate\Translate.cpp(149,83): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+    正在创建库 ..\TranslateUI\bin\Debug\net6.0-windows\DllTranslate.lib 和对象 ..\TranslateUI\bin\Debug\net6.0-windows\DllTranslate.exp
+  DllTranslate.vcxproj -> G:\GitHub\Translate\TranslateUI\bin\Debug\net6.0-windows\DllTranslate.dll
